@@ -5,3 +5,10 @@ Gender: Male
 Age: 20
 Birthday: May 13, 2005
 Contacts: 09105649967
+
+Birth Place: Purok-5 Cabayawa
+Religion: Roman Catholic
+Father's Name: Edmundo M. Esma
+Occupation: Driver
+Mother's Name: Corazon L. Esma
+Occupation: House Wife
